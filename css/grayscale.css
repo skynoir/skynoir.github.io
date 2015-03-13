@@ -386,3 +386,7 @@ p.phone {
 h1 {
     font-size: 10px;
 }
+
+#intro-fade1, #intro-fade2 {
+    display: none;
+}
